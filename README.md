@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Yilin 👋
 
-<!--
-**Yilin-Cai/Yilin-Cai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a student at Columbia SIPA
+- 🌱 I’m currently learning _Into to Text Analysis in Python_
 
-Here are some ideas to get you started:
+- ⚡ Skills & Interests:
+- 📈 Finance & Business: Strong foundation in corporate finance, financial modeling, risk analytics, and compliance. Experienced in market analysis, pricing strategy, and investment processes.
+- 💬 Languages: Fluent in Chinese Mandarin, English, and Korean (TOPIK6).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun facts: 
+- 🎹 I won 1st place at the Wiesbaden International Piano Competition.
+- 🎓 I am a CFA Level 2 candidate.
+- 🌍 I love exploring new cultures and have a keen interest in reading and traveling.
